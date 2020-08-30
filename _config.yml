@@ -14,7 +14,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Apps:
-    - Score tracker: "https://beautifuljekyll.com"
+    - Score tracker: "scoretracker"
     - Minesweeper: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
