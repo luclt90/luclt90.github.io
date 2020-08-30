@@ -15,7 +15,7 @@ navbar-links:
   About Me: "aboutme"
   Apps:
     - Score tracker: "scoretracker"
-    - Minesweeper: "https://www.markdowntutorial.com/"
+    - Minesweeper: "minesweeper"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
