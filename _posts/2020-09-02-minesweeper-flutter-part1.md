@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Part 1: Build Minesweeper game using Flutter from scratch
-# subtitle: Each post also has a subtitle
-# gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
 tags: [Flutter]
 comments: true
 ---
