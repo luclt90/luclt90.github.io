@@ -38,15 +38,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
+  email: "ywm.luclt@gmail.com"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: ywmluclt
+# twitter: daattali
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: letrongluc
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "4265096/luke-le"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
@@ -126,7 +126,7 @@ footer-link-col: "#404040"
 #disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
+fb_comment_id: ""
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
