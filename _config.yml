@@ -13,7 +13,7 @@ author: Luc Le
 
 navbar-links:
   About Me: "aboutme"
-   Products :
+  Products:
     - Score tracker: "scoretracker"
     - Minesweeper: "minesweeper"
   # Author's home: "https://deanattali.com"
