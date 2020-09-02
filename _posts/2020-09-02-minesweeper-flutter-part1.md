@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 1: Build Minesweeper game using Flutter from scratch
+title: Part 1. Build Minesweeper game using Flutter from scratch
 tags: [Flutter]
 comments: true
 ---
