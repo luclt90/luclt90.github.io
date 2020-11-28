@@ -16,6 +16,7 @@ navbar-links:
   Products:
     - Score tracker: "scoretracker"
     - Minesweeper: "minesweeper"
+    - f319-Stock Rss Feed: "stockrss"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
