@@ -17,6 +17,7 @@ navbar-links:
     - Score tracker: "scoretracker"
     - Minesweeper: "minesweeper"
     - Stock Market News: "stockrss"
+    - Numerology: "numerology"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
