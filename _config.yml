@@ -41,8 +41,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "ywm.luclt@gmail.com"
-  facebook: ltrongluc
-  github: ywmluclt
+  github: luclt90
 # twitter: daattali
   rss: true
 #  reddit: yourname
